@@ -27,7 +27,7 @@ _See individual files for additional documentation_
 
 ## Other Information
 
-* twod\_grid\_Q.m and twod\_mesh\_Q.m developed by Alan Lattimer (c)2015-2109 based on code
+* **twod\_grid\_Q.m** and **twod\_mesh\_Q.m** developed by Alan Lattimer (c)2015-2109 based on code
 developed by Jeff Borggaard.
-* \@Msgclss is a wrapper class for level based logging Alan Lattimer (c)2013-2019.
+* **\@Msgcls** is a wrapper class for level based logging. Alan Lattimer (c)2013-2019.
 
